@@ -1,6 +1,6 @@
 {
     "name": "HYZEROFFICIAL-BOTMD",
-    "version": "1.0.0",
+    "version": "6.0.0",
     "description": "WhatsApp Bot ( Base )",
     "depecrated": false,
     "main": "index.js",
@@ -36,10 +36,10 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:sadteams/baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
-        "@bochilteam/scraper": "^2.0.0",
-        "awesome-phonenumber": "^2.69.0",
+		"@bochilteam/scraper": "^4.2.4",
+		"@whiskeysockets/baileys": "^6.6.0",
+        "awesome-phonenumber": "^6.4.0",
         "axios": "^0.26.0",
         "baileys": "^6.0.5",
         "caliph-api": "github:caliphdev/caliph-api",
